@@ -7,7 +7,7 @@ https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8
 Find out how to find your Ocp-Apim-Subscription-Key value:
 https://stackoverflow.com/questions/40867834/where-to-find-my-ocp-apim-subscription-key-in-windows-azure
 
-Build in Delphi.
+Built in Delphi.
 https://www.embarcadero.com/products/delphi
 
 Civil liberties and facial recognition.
