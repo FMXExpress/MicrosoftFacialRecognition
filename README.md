@@ -12,3 +12,6 @@ https://www.embarcadero.com/products/delphi
 
 Civil liberties and facial recognition.
 https://www.eff.org/pages/face-recognition
+
+Banned in Maine?
+https://www.theverge.com/2021/6/30/22557516/maine-facial-recognition-ban-state-law
